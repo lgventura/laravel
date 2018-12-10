@@ -1,0 +1,36 @@
+.header-topbar, .main-slider-area .owl-theme .owl-nav [class*='owl-'], 
+.slide-caption .btn, .about-item i, .title-icon:before, .title-icon:after,
+.course-cost, .my-btn, .teacher-img a .link, 
+.testimonial-col .owl-theme .owl-dots .owl-dot.active span, 
+.testimonial-col .owl-theme .owl-dots .owl-dot:hover span, .post-date,
+.info-bar, .subscribe-area, .scrollup, .tags-col ul li:hover,
+.page-title-box h2:before, .sidebar-search-box .input-group-btn .btn,
+.course-features .btn, .sidebar-tags ul li a:hover, .about-box, 
+.history-img h3, .history-section .owl-theme .owl-nav [class*='owl-'],
+.pricingTable .price-value, .pricingTable .pricingTable-signup, 
+.faq-col .panel-title, .contact-col .btn {
+	background: #11C0B4;
+}
+.main-herader .dropdown-menu .dropdown-item:hover, .slide-caption__desc, 
+.slide-caption .btn:hover, .about-col h5, .video-col i, .title-icon i,
+.counter-col i, .social-group ul li i, .teachers-col h4 a:hover,
+.img-hover-item i, .hover-item-info h3 a:hover, .test-item span, .blog-col h4 a,
+.footer-col h3, .footer-col ul li a:hover, .copyright-col p a, .page-title-box h2 span,
+.page-title-box p a:hover, .my-pagination .page-link, .categories ul li a:hover,
+.sidebar-post ul li h4 a, .blog-commment-item i, .commment-field h4 a,
+.teacher-biography ul li i, .teacher-biography ul li a i:hover, .info-col p span,
+.blog-col h4 a:hover, .account-area .nav-tabs .nav-link, .error-col h1 span, 
+.error-col h4 a:hover, .contact-infobox i {
+	color: #11C0B4;
+}
+.slide-caption__title:before, .slide-caption .btn, .tags-col ul li:hover,
+.my-pagination .page-link, .sidebar-search-box .input-group .form-control {
+	border-color: #11C0B4;
+}
+.main-herader .dropdown-menu,
+.course-cost:before {
+	border-top-color: #11C0B4;
+}
+.post-date:after {
+	border-left-color: #11C0B4;
+}
